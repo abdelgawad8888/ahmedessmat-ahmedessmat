@@ -65,9 +65,8 @@ Arabic (Native) • English (Fluent)
 ---
 
 ## 🔥 Activity Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedessmat&theme=default)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ahmedessmat&theme=default)  
 
 ---
-
 ## 👁 Visitor Counter  
 ![Visitors](https://komarev.com/ghpvc/?username=ahmedessmat&color=blue)  
